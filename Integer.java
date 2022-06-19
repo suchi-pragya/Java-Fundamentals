@@ -13,5 +13,9 @@ public class Integer {
         
         System.out.println("At position :" + index);
         }
+
+    public static int parseInt(String string) {
+        return 0;
+    }
     
 }
